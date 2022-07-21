@@ -1,0 +1,44 @@
+.pm{
+    font-size: 1.5em;
+    background-color:#eee;
+    display:inline-block;
+    vertical-align: middle;
+}
+
+.pm>div{
+    display:inline-block;
+    width: 1em;
+    line-height: 1em;
+    border: solid 1px #eee;
+    box-sizing: border-box;
+    text-align:center;
+    background-color:#ddd;
+    user-select: none;
+}
+
+.pm>div:hover{
+    background-color:#ccc;
+}
+
+.slots{
+    text-align:left;
+}
+
+.slots input{
+    width:5em;
+    height:2em;
+}
+
+
+table, th, td {
+  border: 1px solid #aaa;
+}
+
+table {
+  border-collapse: collapse;
+
+}
+
+td{
+    text-align:center;
+}

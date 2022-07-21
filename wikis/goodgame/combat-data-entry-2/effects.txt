@@ -1,0 +1,29 @@
+attackers
+combat strength for melee units 9
+combat strength for ranged units
+enemy wall protection -11
+enemy gate protection -8
+enemy moat protection -10
+army travel costs -15%
+army travel speed 5.2%
+glory points earned when attacking +9%
+honor points earned in battle +5%
+resources plundered when looting 10.1
+chance of finding more powerful equipment 13.4
+later army detection 9.8
+fire damage inflicted when attacking 1%
+chance of destroying enemy buildings when attacking 1%
+
+
+castellans
+combat strength for melee units +15.1
+combat strength for ranged units +17.8
+moat protection +13%
+gate protection +6.2
+wall protection +15%
+army travel speed during conquest +8%
+glory points earned when defending +5%
+resources lost after looting -6%
+earlier attack warning +6.6
+fire damage suffered when defending -2%
+required occupation time during conquests -2%
